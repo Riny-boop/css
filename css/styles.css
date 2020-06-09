@@ -32,7 +32,7 @@ p {
 hr {
   width: 70px;
   border-style: dotted none none;
-  border-color: #fdcb9e;
+  border-color: #f8e1f4;
   border-width: 10px;
   margin-bottom: 100px;
   margin-top: 100px;
@@ -53,6 +53,15 @@ a:hover {
   color: #66BFBF;
   font-weight: normal;
 }
+
+.bbm {
+  color: #3f3f44;
+}
+
+.bbm:hover{
+  color:#726a95
+}
+
 
 .footer-link {
   color: #3f3f44;
@@ -79,6 +88,10 @@ a:hover {
 
 .picture {
   width: 10%;
+}
+
+.mountain{
+  vertical-align: bottom;
 }
 
 .middle-picture {
@@ -121,21 +134,4 @@ a:hover {
 .copyright {
   color: #726a95;
   font-size: 0.75rem;
-}
-
-.BUTTON_GYA {
-   -webkit-border-radius: 100px;
-   -moz-border-radius: 100px;
-   border-radius: 100px;
-   color: #FFFFFF;
-   font-family: sans-serif;
-   font-size: 40px;
-   font-weight: 100;
-   padding: 27px;
-   background-color: #CCAFAF;
-   text-shadow: 1px 1px 20px #FFA3EC;
-   text-decoration: none;
-   display: inline-block;
-   cursor: pointer;
-   text-align: center;
 }
