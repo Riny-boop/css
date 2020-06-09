@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 90px;
+  color: #66BFBF
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  color: #3f3f44;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  color: #3f3f44;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  line-height: 2;
+}
+
+hr {
+  width: 70px;
+  border-style: dotted none none;
+  border-color: #fdcb9e;
+  border-width: 10px;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+
+a {
+  font-family: 'Raleway', sans-serif;
+  margin: 10px 20px;
+}
+
+a:hover {
+  color: #726a95;
+}
+
+.top-p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.footer-link {
+  color: #3f3f44;
+}
+
+.btn {
+  color: #3f3f44;
+}
+
+.top-container {
+  background-color: #d4f3ef;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #f7f7f7;
+  padding: 100px 0;
+}
+
+.bottom-container {
+  background-color: #cceabb;
+  padding: 50px 0 20px;
+}
+
+.picture {
+  width: 10%;
+}
+
+.middle-picture {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.bottom-picture {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 500px;
+}
+
+.p1 {
+  text-align: center;
+  margin: auto;
+  width: 40%;
+}
+
+.copyright {
+  color: #726a95;
+  font-size: 0.75rem;
+}
+
+.BUTTON_GYA {
+   -webkit-border-radius: 100px;
+   -moz-border-radius: 100px;
+   border-radius: 100px;
+   color: #FFFFFF;
+   font-family: sans-serif;
+   font-size: 40px;
+   font-weight: 100;
+   padding: 27px;
+   background-color: #CCAFAF;
+   text-shadow: 1px 1px 20px #FFA3EC;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
